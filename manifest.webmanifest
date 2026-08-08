@@ -1,0 +1,19 @@
+{
+  "name": "Japão sem perrengue — Guia prático",
+  "short_name": "Guia Japão",
+  "description": "Emergências, frases essenciais e informações práticas para brasileiros no Japão.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#b52a2a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
